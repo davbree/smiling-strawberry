@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import * from 'axios';
+import Axios from 'axios';
 
 import {Layout} from '../components/index';
 import {markdownify} from '../utils';
