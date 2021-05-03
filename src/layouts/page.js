@@ -5,6 +5,8 @@ import Axios from 'axios';
 import {Layout} from '../components/index';
 import {markdownify} from '../utils';
 
+console.log(Axios)
+
 export default class Page extends React.Component {
     render() {
         return (
